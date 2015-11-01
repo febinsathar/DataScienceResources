@@ -164,9 +164,9 @@ Getting a lot of media traction is deep learning - get your feet wet with some o
 * [What is Deep Learning](http://blog.shakirm.com/2015/06/a-statistical-view-of-deep-learning-vi-what-is-deep/?utm_content=bufferae750&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer)
 * [Free Online Deep Learning Book](http://neuralnetworksanddeeplearning.com/) - in-depth book about NN & deep learning
 * [The Brain vs Deep Learning - Blog Post](https://timdettmers.wordpress.com/2015/07/27/brain-vs-deep-learning-singularity/)
+* [Deep Learning Summer School 2015 Git repo](https://github.com/mila-udem/summerschool2015)
 
 ######Time-Series
-* [ANN & Computational Intelligence Forecasting Competition](http://www.neural-forecasting-competition.com/index.htm)
 * [Neural Networks for Time Series Slidedeck](http://www.cs.cmu.edu/afs/cs/academic/class/15782-f06/slides/timeseries.pdf) 
 
 ####Model Selection
