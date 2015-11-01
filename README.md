@@ -90,8 +90,8 @@ Some primers on understanding statistics and other resources to get a deeper und
 * [Statistics Without the Agonizing Pain](https://www.youtube.com/watch?v=5Dnw46eC-0o) - John Rauser's really great video on statistics - funny and engaging with a good message.
 * [Probability Programming and Bayesian Methods for Hackers](http://nbviewer.ipython.org/github/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/blob/master/Prologue/Prologue.ipynb) - full book all online through ipython notebooks.
 * [Probabilistic Programming and Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) - Github Repo for the book above.
-* [Statistics Cheat Sheet in Ipython Notebook](http://nbviewer.ipython.org/url/trust.sce.ntu.edu.sg/~gguo1/blogs/Statistics/Statistics.ipynb)
-* [The only probability Cheatsheet you'll ever need](http://static1.squarespace.com/static/54bf3241e4b0f0d81bf7ff36/t/55e9494fe4b011aed10e48e5/1441352015658/probability_cheatsheet.pdf) - Self explanatory - (thanks William Chen @ http://datastories.quora.com/) for pointing me this great cheat sheet out - wish I had that back at college.
+
+* [The only probability Cheatsheet you'll ever need](https://github.com/wzchen/probability_cheatsheet) 
 * [Khan Academy: Statistics](https://www.khanacademy.org/#statistics) - Tons of videos to help learn statistics concepts.
 * [Statistical Distributions in iPython Notebook](http://nbviewer.ipython.org/urls/gist.github.com/mattions/6113437/raw/c5468ea930d6960225d83e112d7f3d00d9c13398/Exploring+different+distribution.ipynb) - Discrete, Bernoulli, Poisson, Binomial, Alpha, Beta etc.  The descriptions are mathematical - will find another resource to explain.
 
