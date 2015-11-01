@@ -1,17 +1,5 @@
 ##Data Science Resources
 
-Hello and welcome to the Data Science Resources repo.  I originally built this repo so that I could have a location to host resources that are helpful to me.  Through building the repo I realized that other people might be also be interested in this content - so I have tried to curate content on data science topics, high quality resources to learn from, and relevant blog posts.  
-
-The intended goal was to cover more than just the technical component  of data science.  Data Science as a discipline is still relatively fresh and many business are learning how to properly integrate and structure those teams and also proper understanding the value proposition that data science can provide.
-
-As a result I also tried to find topics that cover building data science teams, business practices, use-cases, product metrics and data science career paths.  
-
-This is a constant work in progress and I hope to refactor and update in some kind of meaningful time frame.
-
-If you find this resource helpful - please send it around to other people or you can [upvote it on datatau](http://www.datatau.com/item?id=4593), share it on linkedIn, twitter, Facebook, add it to Quora or just send me a note.   Good luck, I hope this helps you find what you are looking for now, or in the future.
-
-Remember - If you’re not prepared to be wrong, you’ll never come up with anything original.
-
 #Table Of Contents
 1. [Data Science Getting Started](#data-science-getting-started)
   * [Start](#start)
@@ -103,7 +91,7 @@ Some primers on understanding statistics and other resources to get a deeper und
 * [Probability Programming and Bayesian Methods for Hackers](http://nbviewer.ipython.org/github/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/blob/master/Prologue/Prologue.ipynb) - full book all online through ipython notebooks.
 * [Probabilistic Programming and Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) - Github Repo for the book above.
 * [Statistics Cheat Sheet in Ipython Notebook](http://nbviewer.ipython.org/url/trust.sce.ntu.edu.sg/~gguo1/blogs/Statistics/Statistics.ipynb)
-* [The only probability Cheatsheet you'll ever need](https://bayesrule.files.wordpress.com/2014/07/probability_cheatsheet_140718.pdf) - Self explanatory - (thanks William Chen @ http://datastories.quora.com/) for pointing me this great cheat sheet out - wish I had that back at college.
+* [The only probability Cheatsheet you'll ever need](http://static1.squarespace.com/static/54bf3241e4b0f0d81bf7ff36/t/55e9494fe4b011aed10e48e5/1441352015658/probability_cheatsheet.pdf) - Self explanatory - (thanks William Chen @ http://datastories.quora.com/) for pointing me this great cheat sheet out - wish I had that back at college.
 * [Khan Academy: Statistics](https://www.khanacademy.org/#statistics) - Tons of videos to help learn statistics concepts.
 * [Statistical Distributions in iPython Notebook](http://nbviewer.ipython.org/urls/gist.github.com/mattions/6113437/raw/c5468ea930d6960225d83e112d7f3d00d9c13398/Exploring+different+distribution.ipynb) - Discrete, Bernoulli, Poisson, Binomial, Alpha, Beta etc.  The descriptions are mathematical - will find another resource to explain.
 
