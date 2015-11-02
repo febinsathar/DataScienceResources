@@ -64,7 +64,6 @@ Data Science is a multidisciplinary field covering at the very minimum - statist
 ## Data Pipeline & Tools
 
 ###Python
-Python is my workhorse language specifically as it has many data science and statistic library, the ability to work in production environments, and work on other problems outside of data science.  There are many other languages that could be useful but are not covered here: Julia, R, Cython, Pig, Scala, Java, etc.
 
 * [Python @ Codecademy](http://www.codecademy.com/en/tracks/python) - If you have never used Python, right this way..
 * [The Python Wiki](https://wiki.python.org/moin/FrontPage) - Good resource with lots of info about Python.
@@ -73,6 +72,8 @@ Python is my workhorse language specifically as it has many data science and sta
 * [Git tutorial](https://try.github.io/levels/1/challenges/1) - Git for Version Control.  Simple tutorial for Git from Github.
 * [Anyone Can Code](http://dhruvbird.com/61.html) - Languages, tutorials, cheat sheets, algorithms and data structures
 
+ There are many other languages that could be used in machine learning: Julia, R, Cython, Pig, Scala, Java, etc.
+ 
 #### Data Structures & CS Topics
 * [Algorithms & Data Structures](http://www.bogotobogo.com/Algorithms/algorithms.php) - Binary trees, hash tables, linked lists, big(O) notation and more.
 * [Algorithm & Data Structures](http://interactivepython.org/courselib/static/pythonds/index.html) - Well organized detailed and digestible site full of content covering data structures, algorithms, recursion and assignments!
@@ -100,6 +101,8 @@ A collection of workhorse libraries that are elemental for any python data scien
 * [NumPy](http://www.numpy.org/) - Fundamental package for scientific computing with Python.
 * [StatsModels](http://statsmodels.sourceforge.net/) - Module that allows users to explore data, estimate statistical models and perform statistical tests.
 * [PyMC](https://pypi.python.org/pypi/pymc) - Bayesian estimation useful for Markov chain Monte Carlo analysis (among other things).
+* [Theano] (http://deeplearning.net/software/theano/) - Deep learning theano library
+* [Keras] (http://keras.io/) minimalist, highly modular neural network library on top of Theano
 
 
 ####Data Acquisition
