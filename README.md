@@ -1,51 +1,5 @@
 ##Data Science Resources
 
-#Table Of Contents
-1. [Data Science Getting Started](#data-science-getting-started)
-  * [Start](#start)
-  * [Data Science Courses](#data-science-courses)
-
-1. [Data Pipeline & Tools](#data-pipeline--tools)
-  * [Python](#python)
-  * [Data Structures & CS topics](#data-structures--cs-topics)
-  * [Statistics](#statistics)
-  * [Stats/Engineering Libraries](#statsengineering-libraries)
-  * [Databases/Frameworks](#databasesframeworks)
-  * [Data Acquisition](#data-acquisition)
-  * [Processing & EDA](#processing--exploratory-data-analysis)
-  * [Machine Learning](#machine-learning)
-    * [Machine Learning Theory](#machine-learning-theory)
-    * [Deep Learning](#deep-learning)
-    * [Model Selection](#model-selection)
-    * [Model Evaluation](#model-evaluation)
-    * [Feature Engineering](#feature-engineering)
-  * [Additional Tools or Processes](#additional-tools-or-processes)
-  * [Data Visualization](#data-visualization)
-  * [ipython Notebook Tutorials](#ipython-notebook-tutorials)
-  * [Data Sources](#data-sources)
-  * [New Data Tools](#new-data-tools)
-
-1. [Product](#product)
-  * [Product Metrics](#product-metrics)
-  * [Team Communication & Business Tools](#team-communication--business-tools)  
-  * [Best Practices](#best-practices)
-
-1. [Career Resources](#career-resources)
-  * [Data Science Career Path](#data-science-career-path)
-  * [Types of Data Scientists](#types-of-data-scientists)
-  * [Data Science Applications/Use Cases](#data-science-applicationsuse-cases)
-  * [Data Science Websites/Books](#data-science-websitesbooks)
-  * [Data Science Meetups in the Bay Area](#data-science-meetups-in-the-bay-area)
-  * [Data Science Blogs](#data-science-blogs)
-  * [Data Science Conferences](#data-science-conferences)
-  * [Data Science Presentations](#data-science-presentations)
-  * [Relevant Business Processes](#relevent-business-processes)
-
-1. [Open Source Data Science Resources](#open-source-data-science-resources)
-  * [Additional Open Source Content](#other-open-source-data-science-content)
-  * [Auxiliary Content & Apps](#auxiliary-content--apps)
-
-
 ## Data Science Getting Started
 Data Science is a multidisciplinary field covering at the very minimum - statistics, programming, machine learning [Drew Conway's venn diagram](http://drewconway.com/zia/2013/3/26/the-data-science-venn-diagram) or [Cheat Sheet of a Modern Data Scientist](http://www.marketingdistillery.com/2014/08/30/data-science-skill-set-explained/).
 
