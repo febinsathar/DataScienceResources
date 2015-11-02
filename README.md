@@ -1,7 +1,9 @@
 ##Data Science Resources
 
 ## Data Science Getting Started
-Data Science is a multidisciplinary field covering at the very minimum - statistics, programming, machine learning [Drew Conway's venn diagram](http://drewconway.com/zia/2013/3/26/the-data-science-venn-diagram) 
+Data Science is a multidisciplinary field covering at the very minimum - statistics, programming, machine learning
+
+![Data sciense venn diagram](http://i2.wp.com/sciencereview.berkeley.edu/wp-content/uploads/2014/04/spring_2014_azam_01.jpg) 
 
 ![Modern Data Scientist](http://www.marketingdistillery.com/wp-content/uploads/2014/08/mds.png)
 
