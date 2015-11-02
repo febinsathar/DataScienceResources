@@ -85,7 +85,9 @@ Data Science is a multidisciplinary field covering at the very minimum - statist
 
 ####Statistics
 Some primers on understanding statistics and other resources to get a deeper understanding.
+
 * [Statistics Without the Agonizing Pain](https://www.youtube.com/watch?v=5Dnw46eC-0o) - John Rauser's really great video on statistics - funny and engaging with a good message.
+* [Thinkstat2] (http://greenteapress.com/thinkstats2) - Statistics book a great read
 * [Probability Programming and Bayesian Methods for Hackers](http://nbviewer.ipython.org/github/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/blob/master/Prologue/Prologue.ipynb) - full book all online through ipython notebooks.
 * [Probabilistic Programming and Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) - Github Repo for the book above.
 
