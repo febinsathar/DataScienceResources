@@ -33,6 +33,11 @@ Data Science is a multidisciplinary field covering at the very minimum - statist
 
  There are many other languages that could be used in machine learning: Julia, R, Cython, Pig, Scala, Java, etc.
  
+ 
+ #### Cleaningup Data
+ *[Bad data guide] (https://github.com/Quartz/bad-data-guide)
+ 
+ 
 #### Data Structures & CS Topics
 * [Algorithms & Data Structures](http://www.bogotobogo.com/Algorithms/algorithms.php) - Binary trees, hash tables, linked lists, big(O) notation and more.
 * [Algorithm & Data Structures](http://interactivepython.org/courselib/static/pythonds/index.html) - Well organized detailed and digestible site full of content covering data structures, algorithms, recursion and assignments!
