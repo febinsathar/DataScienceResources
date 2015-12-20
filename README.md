@@ -464,4 +464,5 @@ There are some really great resources linked within this section covering all of
 
 ###Deep Learning
 * [Framework comparison] (https://github.com/zer0n/deepframeworks)
+* [NN theory] (http://cs224d.stanford.edu/lecture_notes/LectureNotes3.pdf)
 * [awesome RNN](https://github.com/kjw0612/awesome-rnn)
