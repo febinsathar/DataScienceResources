@@ -460,3 +460,7 @@ There are some really great resources linked within this section covering all of
 * [The Field Guide to Data Science] (http://www.boozallen.com/media/file/The-Field-Guide-to-Data-Science.pdf) - `Beginner`
 
 * [JuergenSchmidhuber links] (https://www.reddit.com/r/MachineLearning/comments/2xcyrl/i_am_j%C3%BCrgen_schmidhuber_ama/cp5c0py) 
+
+
+###Deep Learning
+* [Framework comparison] (https://github.com/zer0n/deepframeworks)
