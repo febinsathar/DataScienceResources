@@ -464,3 +464,4 @@ There are some really great resources linked within this section covering all of
 
 ###Deep Learning
 * [Framework comparison] (https://github.com/zer0n/deepframeworks)
+* [awesome RNN](https://github.com/kjw0612/awesome-rnn)
