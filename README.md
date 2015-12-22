@@ -45,7 +45,7 @@ Data Science is a multidisciplinary field covering at the very minimum - statist
 * [Visualizations of Data Structures](http://www.cs.usfca.edu/~galles/visualization/Algorithms.html) - Collection of different algorithms (graph problems) and data structures (queues, heaps, hashes) that walks through the visualization to get a better intuitive understanding. 
 * [Data Structures CheatSheet & Big Oh Notation](http://bigocheatsheet.com/)
 * [Data Structures CheatSheet -smaller more readable](https://www.clear.rice.edu/comp160/data_cheat.html)
-* [Coursera: Stanford Algorithms Design & Analysis ](https://class.coursera.org/algo-006) - Course on algorithm design & analysis
+* [Coursera: Stanford Algorithms Design & Analysis ](https://class.coursera.org/algo-006) - Course on algorithm design & analysisfea
 
 ####Statistics
 Some primers on understanding statistics and other resources to get a deeper understanding.
@@ -222,7 +222,7 @@ Resources to help with understanding model evaluation.
 
 ####Feature Engineering
 A critical element of Data Science to improve your performance but minimally talked about.
-* [Ipython Notebook for Feature engineering](http://nbviewer.ipython.org/urls/raw2.github.com/yhat/DataGotham2013/master/notebooks/7%20-%20Feature%20Engineering.ipynb?create=1) - Some discussion about Feature Engineering.
+* [Ipython Notebook for Feature engineering](https://github.com/yhat/DataGotham2013/tree/master/notebooks) - Some discussion about Feature Engineering.
 * [CS Princeton Course](http://www.cs.princeton.edu/courses/archive/spring10/cos424/slides/18-feat.pdf) - Course content on Feature Engineering.
 * [Blog Post about Feature Engineering / Data Exploration](http://deblivingdata.net/machine-learning-tricks/) - Blog post about topic.
 
