@@ -467,3 +467,6 @@ There are some really great resources linked within this section covering all of
 * [NN theory] (http://cs224d.stanford.edu/lecture_notes/LectureNotes3.pdf)
 * [awesome RNN](https://github.com/kjw0612/awesome-rnn)
 * [Fastest DN python go javascript](https://github.com/dmlc/mxnet)
+
+###Benchmark
+*[https://github.com/soumith/convnet-benchmarks] (deep learning library benchmark)
